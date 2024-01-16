@@ -1,0 +1,41 @@
+{
+  "name": "excel-date-to-iso-string",
+  "version": "1.0.2",
+  "description": "convert Excel date serial numbers to ISO date format. This npm package streamlines the mapping between the numeric representation of Excel dates (e.g., 42,088) and ISO date strings ('2015-03-25'). Simplify date handling in JavaScript by focusing on precise ISO format conversions inspired by Unix timestamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Excel Date Converter",
+    "ISO Date Conversion",
+    "Excel Serial Number",
+    "Date Format Mapping",
+    "JavaScript Date Library",
+    "Excel to ISO",
+    "Numeric Date Representation",
+    "Date String Formatting",
+    "Date Serialization",
+    "Efficient Date Handling",
+    "Excel Numeric Dates",
+    "ISO 8601 Format",
+    "JavaScript Date Conversion",
+    "Date Serial Number",
+    "Timezone-Agnostic Dates",
+    "Unix Timestamps for Dates",
+    "Date String Normalization",
+    "Time and Date Utility",
+    "Excel Epoch Mapping",
+    "Human-Readable Date Formats"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rana-M-Usama/excel-date-to-iso-string.git"
+  },
+  "author": "Rana-M-Usama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rana-M-Usama/excel-date-to-iso-string/issues"
+  },
+  "homepage": "https://github.com/Rana-M-Usama/excel-date-to-iso-string#readme"
+}
